@@ -1,0 +1,11 @@
+{
+  "name": "MetaViu Quadruple #{{billboard_id}}",
+  "model": "models/static.glb",
+  "tags": [
+    "image","billboard", "screen", "display", "smart", "advert", "sign"
+  ],
+  "category": "decorations",
+  "parameters": [
+
+  ]
+}
