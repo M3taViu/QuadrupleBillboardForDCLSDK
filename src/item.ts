@@ -74,7 +74,7 @@ export default class MetaViuBillboard {
         let request = {
             width: transform.scale.x,
             height: transform.scale.y,
-            billboard_type: 'Triple',
+            billboard_type: 'Quadruple',
             billboard_id: this.billboard_id,
             type: ['image', 'video'],
             mime_type: ['image/jpeg', 'image/png', 'video/mp4'],
